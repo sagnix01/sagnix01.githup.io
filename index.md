@@ -13,3 +13,4 @@ Hauptfiguren sind der Titelheld, sein Freund Obelix und weitere Bewohner eines k
 * Obelix ist sein bester Freund.
 * Jagt gerne Wildschweine.
 
+> Die spinnen die Römer
