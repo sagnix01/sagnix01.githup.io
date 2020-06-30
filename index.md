@@ -14,3 +14,5 @@ Hauptfiguren sind der Titelheld, sein Freund Obelix und weitere Bewohner eines k
 * Jagt gerne Wildschweine.
 
 > Die spinnen die Römer
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Asterix.svg"/>
