@@ -13,3 +13,4 @@ Hauptfiguren sind der Titelheld, sein Freund Obelix und weitere Bewohner eines k
 * Obelix ist sein bester Freund.
 * Jagt gerne Wildschweine.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Asterix.svg"/>
